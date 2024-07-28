@@ -4,6 +4,8 @@
 
 :root {
     --primary: #094b65;
+
+    --secondary: #f9f9f9;
 }
 
 * {
